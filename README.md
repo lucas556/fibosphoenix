@@ -1,10 +1,11 @@
 # fibosphoenix
 
-FIBOS 主网地址列表
-P2P默认端口：9870
+## FIBOS 主网地址列表
 
+P2P默认端口：9870
 RPC默认端口：8870
 
+```
 chainID： 6aa7bd33b6b45192465afa3553dedb531acaaff8928cf64b70bd4c5e49b7ec6a
 RPC地址列表:
     se-rpc.fibos.io
@@ -20,3 +21,4 @@ P2P地址列表:
     ca-p2p.fibos.io
     ln-p2p.fibos.io
     va-p2p.fibos.io
+```
