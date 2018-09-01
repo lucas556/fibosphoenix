@@ -4,7 +4,7 @@ var FIBOS = require('fibos.js');
 // 替换xxxprivatekey 为你的私钥
 var fibos = FIBOS({
     chainId: "6aa7bd33b6b45192465afa3553dedb531acaaff8928cf64b70bd4c5e49b7ec6a",
-    keyProvider: "5K2aRThhojBC25jSMJoydM4hnjFkwn35EcuhHx4WFdowpG3D7QP",
+    keyProvider: "5...",
     httpEndpoint: "http://127.0.0.1:8888",
     logger: {
         log: null,
